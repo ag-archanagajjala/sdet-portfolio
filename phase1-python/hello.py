@@ -1,1 +1,6 @@
-print("Hello! My SDET journey starts now.")
+print("Hello, world!")
+name = input("What is your name? ")
+print("It is good to meet you,",name)
+print("The length of your name is: ", len(name))
+age = input("What is your age? ")
+print("You will be", int(age) + 1, "in a year.")
